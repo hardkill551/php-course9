@@ -7,7 +7,7 @@
             "Hardkill551\\BuscadorCursos\\": "src/"
         },
         "classmap": ["src/Teste.php"],
-        "files": ["src/functions.php"]
+        "files": ["src/functions.php, src/buscar-cursos.php"]
     },
     "scripts": {
         "test": "phpunit src/TestBuscadorDeCursos.php",
