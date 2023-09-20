@@ -35,5 +35,7 @@
         "phpunit/phpunit": "^10.3",
         "squizlabs/php_codesniffer": "^3.7",
         "phan/phan": "^5.4"
-    }
+    },
+    "license": "MIT",
+    "bin": ["buscar-cursos.php"]
 }
